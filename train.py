@@ -25,8 +25,8 @@ if __name__ == '__main__':
             sgd.zero_grad()
             predict_y = model(train_x.float())
             loss = cost(predict_y, train_label.long())
-            if idx % 10 == 0:
-                print('idx: {}, loss: {}'.format(idx, loss.sum().item()))
+            if idx % 50 == 0:
+                print('epoch : {}, idx: {}, loss: {}'.format(_epoch, idx, loss.sum().item()))
             loss.backward()
             sgd.step()
 

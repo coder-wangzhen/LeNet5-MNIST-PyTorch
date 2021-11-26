@@ -1,0 +1,600 @@
+epoch : 0, idx: 0, loss: 2.3021163940429688
+epoch : 0, idx: 50, loss: 2.285968542098999
+epoch : 0, idx: 100, loss: 1.9227113723754883
+epoch : 0, idx: 150, loss: 0.9309985637664795
+epoch : 0, idx: 200, loss: 0.6470857262611389
+accuracy: 0.81
+epoch : 1, idx: 0, loss: 0.5268608331680298
+epoch : 1, idx: 50, loss: 0.6472819447517395
+epoch : 1, idx: 100, loss: 0.4108518064022064
+epoch : 1, idx: 150, loss: 0.8325791954994202
+epoch : 1, idx: 200, loss: 0.3758825361728668
+accuracy: 0.86
+epoch : 2, idx: 0, loss: 0.3312244415283203
+epoch : 2, idx: 50, loss: 0.36703646183013916
+epoch : 2, idx: 100, loss: 0.32441991567611694
+epoch : 2, idx: 150, loss: 0.3927779495716095
+epoch : 2, idx: 200, loss: 0.3492695689201355
+accuracy: 0.88
+epoch : 3, idx: 0, loss: 0.29516759514808655
+epoch : 3, idx: 50, loss: 0.34675097465515137
+epoch : 3, idx: 100, loss: 0.29083582758903503
+epoch : 3, idx: 150, loss: 0.35904356837272644
+epoch : 3, idx: 200, loss: 0.33498966693878174
+accuracy: 0.89
+epoch : 4, idx: 0, loss: 0.2656732201576233
+epoch : 4, idx: 50, loss: 0.3180881142616272
+epoch : 4, idx: 100, loss: 0.2726377248764038
+epoch : 4, idx: 150, loss: 0.34472841024398804
+epoch : 4, idx: 200, loss: 0.32871538400650024
+accuracy: 0.89
+epoch : 5, idx: 0, loss: 0.24969328939914703
+epoch : 5, idx: 50, loss: 0.29886922240257263
+epoch : 5, idx: 100, loss: 0.26510247588157654
+epoch : 5, idx: 150, loss: 0.33406755328178406
+epoch : 5, idx: 200, loss: 0.3245883882045746
+accuracy: 0.89
+epoch : 6, idx: 0, loss: 0.23866896331310272
+epoch : 6, idx: 50, loss: 0.28518426418304443
+epoch : 6, idx: 100, loss: 0.2569698989391327
+epoch : 6, idx: 150, loss: 0.32462525367736816
+epoch : 6, idx: 200, loss: 0.3236239552497864
+accuracy: 0.89
+epoch : 7, idx: 0, loss: 0.23131582140922546
+epoch : 7, idx: 50, loss: 0.275796115398407
+epoch : 7, idx: 100, loss: 0.2524338662624359
+epoch : 7, idx: 150, loss: 0.3131953179836273
+epoch : 7, idx: 200, loss: 0.32301855087280273
+accuracy: 0.89
+epoch : 8, idx: 0, loss: 0.2279101014137268
+epoch : 8, idx: 50, loss: 0.26948830485343933
+epoch : 8, idx: 100, loss: 0.24740955233573914
+epoch : 8, idx: 150, loss: 0.3051919639110565
+epoch : 8, idx: 200, loss: 0.32111555337905884
+accuracy: 0.89
+epoch : 9, idx: 0, loss: 0.22515754401683807
+epoch : 9, idx: 50, loss: 0.2672369182109833
+epoch : 9, idx: 100, loss: 0.24363075196743011
+epoch : 9, idx: 150, loss: 0.2980935573577881
+epoch : 9, idx: 200, loss: 0.32222646474838257
+accuracy: 0.89
+epoch : 10, idx: 0, loss: 0.22473672032356262
+epoch : 10, idx: 50, loss: 0.2625805735588074
+epoch : 10, idx: 100, loss: 0.24234451353549957
+epoch : 10, idx: 150, loss: 0.29281333088874817
+epoch : 10, idx: 200, loss: 0.32192111015319824
+accuracy: 0.89
+epoch : 11, idx: 0, loss: 0.22188103199005127
+epoch : 11, idx: 50, loss: 0.2562403976917267
+epoch : 11, idx: 100, loss: 0.23893572390079498
+epoch : 11, idx: 150, loss: 0.2887042164802551
+epoch : 11, idx: 200, loss: 0.3214922845363617
+accuracy: 0.89
+epoch : 12, idx: 0, loss: 0.21983718872070312
+epoch : 12, idx: 50, loss: 0.2506641447544098
+epoch : 12, idx: 100, loss: 0.2364620715379715
+epoch : 12, idx: 150, loss: 0.285408079624176
+epoch : 12, idx: 200, loss: 0.3213491141796112
+accuracy: 0.89
+epoch : 13, idx: 0, loss: 0.2168453186750412
+epoch : 13, idx: 50, loss: 0.24645797908306122
+epoch : 13, idx: 100, loss: 0.23321488499641418
+epoch : 13, idx: 150, loss: 0.2819986343383789
+epoch : 13, idx: 200, loss: 0.32345113158226013
+accuracy: 0.89
+epoch : 14, idx: 0, loss: 0.21583271026611328
+epoch : 14, idx: 50, loss: 0.24317824840545654
+epoch : 14, idx: 100, loss: 0.23134677112102509
+epoch : 14, idx: 150, loss: 0.2795077860355377
+epoch : 14, idx: 200, loss: 0.31891414523124695
+accuracy: 0.89
+epoch : 15, idx: 0, loss: 0.21269270777702332
+epoch : 15, idx: 50, loss: 0.23736946284770966
+epoch : 15, idx: 100, loss: 0.22909237444400787
+epoch : 15, idx: 150, loss: 0.27881354093551636
+epoch : 15, idx: 200, loss: 0.3243770897388458
+accuracy: 0.89
+epoch : 16, idx: 0, loss: 0.2093680202960968
+epoch : 16, idx: 50, loss: 0.23601043224334717
+epoch : 16, idx: 100, loss: 0.22861233353614807
+epoch : 16, idx: 150, loss: 0.2775779962539673
+epoch : 16, idx: 200, loss: 0.31705549359321594
+accuracy: 0.89
+epoch : 17, idx: 0, loss: 0.2092995047569275
+epoch : 17, idx: 50, loss: 0.23208075761795044
+epoch : 17, idx: 100, loss: 0.22600077092647552
+epoch : 17, idx: 150, loss: 0.27500277757644653
+epoch : 17, idx: 200, loss: 0.3196002244949341
+accuracy: 0.89
+epoch : 18, idx: 0, loss: 0.21128417551517487
+epoch : 18, idx: 50, loss: 0.22876518964767456
+epoch : 18, idx: 100, loss: 0.22446057200431824
+epoch : 18, idx: 150, loss: 0.2719159424304962
+epoch : 18, idx: 200, loss: 0.3115202784538269
+accuracy: 0.89
+epoch : 19, idx: 0, loss: 0.20875440537929535
+epoch : 19, idx: 50, loss: 0.22687995433807373
+epoch : 19, idx: 100, loss: 0.22367189824581146
+epoch : 19, idx: 150, loss: 0.27074798941612244
+epoch : 19, idx: 200, loss: 0.31445419788360596
+accuracy: 0.89
+epoch : 20, idx: 0, loss: 0.21039167046546936
+epoch : 20, idx: 50, loss: 0.2232968956232071
+epoch : 20, idx: 100, loss: 0.22196537256240845
+epoch : 20, idx: 150, loss: 0.26963409781455994
+epoch : 20, idx: 200, loss: 0.3109397888183594
+accuracy: 0.89
+epoch : 21, idx: 0, loss: 0.20392820239067078
+epoch : 21, idx: 50, loss: 0.22210897505283356
+epoch : 21, idx: 100, loss: 0.22172553837299347
+epoch : 21, idx: 150, loss: 0.2676672041416168
+epoch : 21, idx: 200, loss: 0.3142719268798828
+accuracy: 0.89
+epoch : 22, idx: 0, loss: 0.2046467661857605
+epoch : 22, idx: 50, loss: 0.22025737166404724
+epoch : 22, idx: 100, loss: 0.22062228620052338
+epoch : 22, idx: 150, loss: 0.266886830329895
+epoch : 22, idx: 200, loss: 0.29900121688842773
+accuracy: 0.89
+epoch : 23, idx: 0, loss: 0.20299328863620758
+epoch : 23, idx: 50, loss: 0.2194315493106842
+epoch : 23, idx: 100, loss: 0.21895988285541534
+epoch : 23, idx: 150, loss: 0.26541784405708313
+epoch : 23, idx: 200, loss: 0.29303938150405884
+accuracy: 0.89
+epoch : 24, idx: 0, loss: 0.20242823660373688
+epoch : 24, idx: 50, loss: 0.21972166001796722
+epoch : 24, idx: 100, loss: 0.21625761687755585
+epoch : 24, idx: 150, loss: 0.26568371057510376
+epoch : 24, idx: 200, loss: 0.2931785583496094
+accuracy: 0.89
+epoch : 25, idx: 0, loss: 0.19910575449466705
+epoch : 25, idx: 50, loss: 0.21697638928890228
+epoch : 25, idx: 100, loss: 0.21485158801078796
+epoch : 25, idx: 150, loss: 0.2636461853981018
+epoch : 25, idx: 200, loss: 0.28682583570480347
+accuracy: 0.89
+epoch : 26, idx: 0, loss: 0.19992628693580627
+epoch : 26, idx: 50, loss: 0.2168169915676117
+epoch : 26, idx: 100, loss: 0.21282291412353516
+epoch : 26, idx: 150, loss: 0.2638208866119385
+epoch : 26, idx: 200, loss: 0.2841247618198395
+accuracy: 0.89
+epoch : 27, idx: 0, loss: 0.2019089311361313
+epoch : 27, idx: 50, loss: 0.21561937034130096
+epoch : 27, idx: 100, loss: 0.21005600690841675
+epoch : 27, idx: 150, loss: 0.2616406977176666
+epoch : 27, idx: 200, loss: 0.27857309579849243
+accuracy: 0.89
+epoch : 28, idx: 0, loss: 0.19688397645950317
+epoch : 28, idx: 50, loss: 0.2149549275636673
+epoch : 28, idx: 100, loss: 0.20925050973892212
+epoch : 28, idx: 150, loss: 0.26271018385887146
+epoch : 28, idx: 200, loss: 0.2743108570575714
+accuracy: 0.89
+epoch : 29, idx: 0, loss: 0.19604448974132538
+epoch : 29, idx: 50, loss: 0.21348577737808228
+epoch : 29, idx: 100, loss: 0.2086375653743744
+epoch : 29, idx: 150, loss: 0.26177170872688293
+epoch : 29, idx: 200, loss: 0.2685821056365967
+accuracy: 0.89
+epoch : 30, idx: 0, loss: 0.1928805410861969
+epoch : 30, idx: 50, loss: 0.2145044207572937
+epoch : 30, idx: 100, loss: 0.20719219744205475
+epoch : 30, idx: 150, loss: 0.25909507274627686
+epoch : 30, idx: 200, loss: 0.2665276825428009
+accuracy: 0.89
+epoch : 31, idx: 0, loss: 0.1875804364681244
+epoch : 31, idx: 50, loss: 0.21302250027656555
+epoch : 31, idx: 100, loss: 0.20696718990802765
+epoch : 31, idx: 150, loss: 0.2592145502567291
+epoch : 31, idx: 200, loss: 0.26539623737335205
+accuracy: 0.88
+epoch : 32, idx: 0, loss: 0.19630150496959686
+epoch : 32, idx: 50, loss: 0.21315224468708038
+epoch : 32, idx: 100, loss: 0.20492418110370636
+epoch : 32, idx: 150, loss: 0.25744572281837463
+epoch : 32, idx: 200, loss: 0.2608294188976288
+accuracy: 0.89
+epoch : 33, idx: 0, loss: 0.18955038487911224
+epoch : 33, idx: 50, loss: 0.21243704855442047
+epoch : 33, idx: 100, loss: 0.20626819133758545
+epoch : 33, idx: 150, loss: 0.2575773298740387
+epoch : 33, idx: 200, loss: 2.1928043365478516
+accuracy: 0.40
+epoch : 34, idx: 0, loss: 1.8636256456375122
+epoch : 34, idx: 50, loss: 1.5850110054016113
+epoch : 34, idx: 100, loss: 1.458053708076477
+epoch : 34, idx: 150, loss: 1.303347110748291
+epoch : 34, idx: 200, loss: 1.3833662271499634
+accuracy: 0.47
+epoch : 35, idx: 0, loss: 1.334615707397461
+epoch : 35, idx: 50, loss: 1.357884168624878
+epoch : 35, idx: 100, loss: 1.3335456848144531
+epoch : 35, idx: 150, loss: 1.2359535694122314
+epoch : 35, idx: 200, loss: 1.3462605476379395
+accuracy: 0.46
+epoch : 36, idx: 0, loss: 1.3207465410232544
+epoch : 36, idx: 50, loss: 1.3371901512145996
+epoch : 36, idx: 100, loss: 1.2926228046417236
+epoch : 36, idx: 150, loss: 1.190272331237793
+epoch : 36, idx: 200, loss: 1.317603588104248
+accuracy: 0.55
+epoch : 37, idx: 0, loss: 1.1155130863189697
+epoch : 37, idx: 50, loss: 1.1539525985717773
+epoch : 37, idx: 100, loss: 1.1578761339187622
+epoch : 37, idx: 150, loss: 1.0884637832641602
+epoch : 37, idx: 200, loss: 1.1334168910980225
+accuracy: 0.56
+epoch : 38, idx: 0, loss: 1.0221410989761353
+epoch : 38, idx: 50, loss: 1.1079530715942383
+epoch : 38, idx: 100, loss: 1.0634814500808716
+epoch : 38, idx: 150, loss: 1.0272910594940186
+epoch : 38, idx: 200, loss: 1.1143616437911987
+accuracy: 0.59
+epoch : 39, idx: 0, loss: 0.9047779440879822
+epoch : 39, idx: 50, loss: 1.0777291059494019
+epoch : 39, idx: 100, loss: 1.0311638116836548
+epoch : 39, idx: 150, loss: 1.0061540603637695
+epoch : 39, idx: 200, loss: 1.099487543106079
+accuracy: 0.59
+epoch : 40, idx: 0, loss: 0.8894897699356079
+epoch : 40, idx: 50, loss: 1.0596262216567993
+epoch : 40, idx: 100, loss: 1.0182965993881226
+epoch : 40, idx: 150, loss: 1.0028554201126099
+epoch : 40, idx: 200, loss: 1.0956999063491821
+accuracy: 0.60
+epoch : 41, idx: 0, loss: 0.8793041110038757
+epoch : 41, idx: 50, loss: 1.053670048713684
+epoch : 41, idx: 100, loss: 1.011482834815979
+epoch : 41, idx: 150, loss: 0.9947161674499512
+epoch : 41, idx: 200, loss: 1.0924252271652222
+accuracy: 0.60
+epoch : 42, idx: 0, loss: 0.8748677968978882
+epoch : 42, idx: 50, loss: 1.0413827896118164
+epoch : 42, idx: 100, loss: 1.0061511993408203
+epoch : 42, idx: 150, loss: 0.9916529059410095
+epoch : 42, idx: 200, loss: 1.08993661403656
+accuracy: 0.60
+epoch : 43, idx: 0, loss: 0.8717206120491028
+epoch : 43, idx: 50, loss: 1.0357632637023926
+epoch : 43, idx: 100, loss: 0.9950162768363953
+epoch : 43, idx: 150, loss: 0.9885079860687256
+epoch : 43, idx: 200, loss: 1.0879485607147217
+accuracy: 0.60
+epoch : 44, idx: 0, loss: 0.8689782619476318
+epoch : 44, idx: 50, loss: 1.0310449600219727
+epoch : 44, idx: 100, loss: 0.98830246925354
+epoch : 44, idx: 150, loss: 0.9837811589241028
+epoch : 44, idx: 200, loss: 1.0805083513259888
+accuracy: 0.60
+epoch : 45, idx: 0, loss: 0.8634588718414307
+epoch : 45, idx: 50, loss: 1.0216078758239746
+epoch : 45, idx: 100, loss: 0.9848051071166992
+epoch : 45, idx: 150, loss: 0.9788727164268494
+epoch : 45, idx: 200, loss: 1.068383812904358
+accuracy: 0.60
+epoch : 46, idx: 0, loss: 0.8599444031715393
+epoch : 46, idx: 50, loss: 1.0148577690124512
+epoch : 46, idx: 100, loss: 0.9808204770088196
+epoch : 46, idx: 150, loss: 0.9749998450279236
+epoch : 46, idx: 200, loss: 1.071505069732666
+accuracy: 0.60
+epoch : 47, idx: 0, loss: 0.8582376837730408
+epoch : 47, idx: 50, loss: 1.0101667642593384
+epoch : 47, idx: 100, loss: 0.980398416519165
+epoch : 47, idx: 150, loss: 0.9727916717529297
+epoch : 47, idx: 200, loss: 1.0604619979858398
+accuracy: 0.60
+epoch : 48, idx: 0, loss: 0.8528249859809875
+epoch : 48, idx: 50, loss: 1.0051370859146118
+epoch : 48, idx: 100, loss: 0.9760333299636841
+epoch : 48, idx: 150, loss: 0.9725160598754883
+epoch : 48, idx: 200, loss: 1.063277006149292
+accuracy: 0.60
+epoch : 49, idx: 0, loss: 0.8488407135009766
+epoch : 49, idx: 50, loss: 1.0061776638031006
+epoch : 49, idx: 100, loss: 0.9767138361930847
+epoch : 49, idx: 150, loss: 0.972569465637207
+epoch : 49, idx: 200, loss: 1.055071234703064
+accuracy: 0.60
+epoch : 50, idx: 0, loss: 0.8424041867256165
+epoch : 50, idx: 50, loss: 1.0022664070129395
+epoch : 50, idx: 100, loss: 0.9703856706619263
+epoch : 50, idx: 150, loss: 0.9699082970619202
+epoch : 50, idx: 200, loss: 1.0538281202316284
+accuracy: 0.60
+epoch : 51, idx: 0, loss: 0.8403363823890686
+epoch : 51, idx: 50, loss: 0.997770369052887
+epoch : 51, idx: 100, loss: 0.9677423238754272
+epoch : 51, idx: 150, loss: 0.970188319683075
+epoch : 51, idx: 200, loss: 1.0520249605178833
+accuracy: 0.59
+epoch : 52, idx: 0, loss: 0.8408249616622925
+epoch : 52, idx: 50, loss: 0.9995206594467163
+epoch : 52, idx: 100, loss: 0.963324785232544
+epoch : 52, idx: 150, loss: 0.9708212614059448
+epoch : 52, idx: 200, loss: 1.0434763431549072
+accuracy: 0.59
+epoch : 53, idx: 0, loss: 0.8429526090621948
+epoch : 53, idx: 50, loss: 0.998322069644928
+epoch : 53, idx: 100, loss: 0.9637768864631653
+epoch : 53, idx: 150, loss: 0.9714590907096863
+epoch : 53, idx: 200, loss: 1.0434597730636597
+accuracy: 0.59
+epoch : 54, idx: 0, loss: 0.8428803086280823
+epoch : 54, idx: 50, loss: 1.0005817413330078
+epoch : 54, idx: 100, loss: 0.9644948244094849
+epoch : 54, idx: 150, loss: 0.9698278903961182
+epoch : 54, idx: 200, loss: 1.037568211555481
+accuracy: 0.59
+epoch : 55, idx: 0, loss: 0.8398779034614563
+epoch : 55, idx: 50, loss: 0.9951349496841431
+epoch : 55, idx: 100, loss: 0.9606935381889343
+epoch : 55, idx: 150, loss: 0.9694877862930298
+epoch : 55, idx: 200, loss: 1.0340858697891235
+accuracy: 0.60
+epoch : 56, idx: 0, loss: 0.8374070525169373
+epoch : 56, idx: 50, loss: 0.9909268021583557
+epoch : 56, idx: 100, loss: 0.9561948776245117
+epoch : 56, idx: 150, loss: 0.9666332602500916
+epoch : 56, idx: 200, loss: 1.030477523803711
+accuracy: 0.60
+epoch : 57, idx: 0, loss: 0.8347039222717285
+epoch : 57, idx: 50, loss: 0.9896731972694397
+epoch : 57, idx: 100, loss: 0.9545283913612366
+epoch : 57, idx: 150, loss: 0.9655649065971375
+epoch : 57, idx: 200, loss: 1.0300049781799316
+accuracy: 0.59
+epoch : 58, idx: 0, loss: 0.836346447467804
+epoch : 58, idx: 50, loss: 0.9883073568344116
+epoch : 58, idx: 100, loss: 0.9553430676460266
+epoch : 58, idx: 150, loss: 0.9664671421051025
+epoch : 58, idx: 200, loss: 1.0280330181121826
+accuracy: 0.59
+epoch : 59, idx: 0, loss: 0.8336918354034424
+epoch : 59, idx: 50, loss: 0.9835541844367981
+epoch : 59, idx: 100, loss: 0.9537118673324585
+epoch : 59, idx: 150, loss: 0.9615795612335205
+epoch : 59, idx: 200, loss: 1.0249340534210205
+accuracy: 0.59
+epoch : 60, idx: 0, loss: 0.8308655023574829
+epoch : 60, idx: 50, loss: 0.9814519286155701
+epoch : 60, idx: 100, loss: 0.9511551856994629
+epoch : 60, idx: 150, loss: 0.9588883519172668
+epoch : 60, idx: 200, loss: 1.0229209661483765
+accuracy: 0.59
+epoch : 61, idx: 0, loss: 0.8302111029624939
+epoch : 61, idx: 50, loss: 0.9764268398284912
+epoch : 61, idx: 100, loss: 0.9453731179237366
+epoch : 61, idx: 150, loss: 0.9590365290641785
+epoch : 61, idx: 200, loss: 1.0240309238433838
+accuracy: 0.59
+epoch : 62, idx: 0, loss: 0.8372723460197449
+epoch : 62, idx: 50, loss: 0.9748080968856812
+epoch : 62, idx: 100, loss: 0.9432682394981384
+epoch : 62, idx: 150, loss: 0.9568906426429749
+epoch : 62, idx: 200, loss: 0.8410272598266602
+accuracy: 0.66
+epoch : 63, idx: 0, loss: 0.7473871111869812
+epoch : 63, idx: 50, loss: 0.8080880641937256
+epoch : 63, idx: 100, loss: 0.7918333411216736
+epoch : 63, idx: 150, loss: 0.7424257397651672
+epoch : 63, idx: 200, loss: 0.7918423414230347
+accuracy: 0.66
+epoch : 64, idx: 0, loss: 0.7266743779182434
+epoch : 64, idx: 50, loss: 0.7891227602958679
+epoch : 64, idx: 100, loss: 0.7655602097511292
+epoch : 64, idx: 150, loss: 0.734302818775177
+epoch : 64, idx: 200, loss: 0.7985597252845764
+accuracy: 0.67
+epoch : 65, idx: 0, loss: 0.696432888507843
+epoch : 65, idx: 50, loss: 0.7884562611579895
+epoch : 65, idx: 100, loss: 0.7710248231887817
+epoch : 65, idx: 150, loss: 0.7263419032096863
+epoch : 65, idx: 200, loss: 0.7885768413543701
+accuracy: 0.67
+epoch : 66, idx: 0, loss: 0.6921103596687317
+epoch : 66, idx: 50, loss: 0.7786489129066467
+epoch : 66, idx: 100, loss: 0.7767009735107422
+epoch : 66, idx: 150, loss: 0.7236363887786865
+epoch : 66, idx: 200, loss: 0.7844075560569763
+accuracy: 0.68
+epoch : 67, idx: 0, loss: 0.6780411005020142
+epoch : 67, idx: 50, loss: 0.7741295099258423
+epoch : 67, idx: 100, loss: 0.7483243942260742
+epoch : 67, idx: 150, loss: 0.7165259122848511
+epoch : 67, idx: 200, loss: 0.7934777736663818
+accuracy: 0.68
+epoch : 68, idx: 0, loss: 0.6808599233627319
+epoch : 68, idx: 50, loss: 0.7715193629264832
+epoch : 68, idx: 100, loss: 0.7578859329223633
+epoch : 68, idx: 150, loss: 0.7103877663612366
+epoch : 68, idx: 200, loss: 0.7876257300376892
+accuracy: 0.68
+epoch : 69, idx: 0, loss: 0.6889034509658813
+epoch : 69, idx: 50, loss: 0.7688332796096802
+epoch : 69, idx: 100, loss: 0.7510766386985779
+epoch : 69, idx: 150, loss: 0.7093499302864075
+epoch : 69, idx: 200, loss: 0.7905406355857849
+accuracy: 0.68
+epoch : 70, idx: 0, loss: 0.6912940740585327
+epoch : 70, idx: 50, loss: 0.7684749960899353
+epoch : 70, idx: 100, loss: 0.7446015477180481
+epoch : 70, idx: 150, loss: 0.7128656506538391
+epoch : 70, idx: 200, loss: 0.7820195555686951
+accuracy: 0.68
+epoch : 71, idx: 0, loss: 0.6851232051849365
+epoch : 71, idx: 50, loss: 0.7652343511581421
+epoch : 71, idx: 100, loss: 0.7559316158294678
+epoch : 71, idx: 150, loss: 0.7157390713691711
+epoch : 71, idx: 200, loss: 0.782850444316864
+accuracy: 0.68
+epoch : 72, idx: 0, loss: 0.679636538028717
+epoch : 72, idx: 50, loss: 0.7645323276519775
+epoch : 72, idx: 100, loss: 0.7502259016036987
+epoch : 72, idx: 150, loss: 0.7072937488555908
+epoch : 72, idx: 200, loss: 0.7799569964408875
+accuracy: 0.68
+epoch : 73, idx: 0, loss: 0.6694035530090332
+epoch : 73, idx: 50, loss: 0.7630569338798523
+epoch : 73, idx: 100, loss: 0.737823486328125
+epoch : 73, idx: 150, loss: 0.7079625725746155
+epoch : 73, idx: 200, loss: 0.7795369625091553
+accuracy: 0.68
+epoch : 74, idx: 0, loss: 0.6712440252304077
+epoch : 74, idx: 50, loss: 0.7635124325752258
+epoch : 74, idx: 100, loss: 0.7418710589408875
+epoch : 74, idx: 150, loss: 0.7036892175674438
+epoch : 74, idx: 200, loss: 0.7824717164039612
+accuracy: 0.68
+epoch : 75, idx: 0, loss: 0.6757693290710449
+epoch : 75, idx: 50, loss: 0.7634357213973999
+epoch : 75, idx: 100, loss: 0.7436577081680298
+epoch : 75, idx: 150, loss: 0.7008700370788574
+epoch : 75, idx: 200, loss: 0.7733496427536011
+accuracy: 0.69
+epoch : 76, idx: 0, loss: 0.6708106994628906
+epoch : 76, idx: 50, loss: 0.7591695785522461
+epoch : 76, idx: 100, loss: 0.7409826517105103
+epoch : 76, idx: 150, loss: 0.7006351947784424
+epoch : 76, idx: 200, loss: 0.7708933353424072
+accuracy: 0.69
+epoch : 77, idx: 0, loss: 0.6686226725578308
+epoch : 77, idx: 50, loss: 0.7628650665283203
+epoch : 77, idx: 100, loss: 0.73948734998703
+epoch : 77, idx: 150, loss: 0.6998507380485535
+epoch : 77, idx: 200, loss: 0.7713647484779358
+accuracy: 0.68
+epoch : 78, idx: 0, loss: 0.6802769303321838
+epoch : 78, idx: 50, loss: 0.7563151121139526
+epoch : 78, idx: 100, loss: 0.7344079613685608
+epoch : 78, idx: 150, loss: 0.7005115747451782
+epoch : 78, idx: 200, loss: 0.7779502272605896
+accuracy: 0.68
+epoch : 79, idx: 0, loss: 0.6865409016609192
+epoch : 79, idx: 50, loss: 0.7584030628204346
+epoch : 79, idx: 100, loss: 0.7342417240142822
+epoch : 79, idx: 150, loss: 0.6983070373535156
+epoch : 79, idx: 200, loss: 0.7747383713722229
+accuracy: 0.69
+epoch : 80, idx: 0, loss: 0.6682710647583008
+epoch : 80, idx: 50, loss: 0.7534793615341187
+epoch : 80, idx: 100, loss: 0.7397526502609253
+epoch : 80, idx: 150, loss: 0.6973262429237366
+epoch : 80, idx: 200, loss: 0.7719494104385376
+accuracy: 0.68
+epoch : 81, idx: 0, loss: 0.6648382544517517
+epoch : 81, idx: 50, loss: 0.7569423317909241
+epoch : 81, idx: 100, loss: 0.7340222597122192
+epoch : 81, idx: 150, loss: 0.699785590171814
+epoch : 81, idx: 200, loss: 0.7726258039474487
+accuracy: 0.69
+epoch : 82, idx: 0, loss: 0.6686682105064392
+epoch : 82, idx: 50, loss: 0.7570603489875793
+epoch : 82, idx: 100, loss: 0.7354647517204285
+epoch : 82, idx: 150, loss: 0.6954845786094666
+epoch : 82, idx: 200, loss: 0.7744386196136475
+accuracy: 0.69
+epoch : 83, idx: 0, loss: 0.6648238301277161
+epoch : 83, idx: 50, loss: 0.7533560395240784
+epoch : 83, idx: 100, loss: 0.7329124212265015
+epoch : 83, idx: 150, loss: 0.6930035948753357
+epoch : 83, idx: 200, loss: 0.7729604840278625
+accuracy: 0.67
+epoch : 84, idx: 0, loss: 0.7051288485527039
+epoch : 84, idx: 50, loss: 0.754485547542572
+epoch : 84, idx: 100, loss: 0.7353502511978149
+epoch : 84, idx: 150, loss: 0.6948527693748474
+epoch : 84, idx: 200, loss: 0.7873985171318054
+accuracy: 0.68
+epoch : 85, idx: 0, loss: 0.6617726683616638
+epoch : 85, idx: 50, loss: 0.7764317989349365
+epoch : 85, idx: 100, loss: 0.7365837693214417
+epoch : 85, idx: 150, loss: 0.6890096068382263
+epoch : 85, idx: 200, loss: 0.7706229090690613
+accuracy: 0.69
+epoch : 86, idx: 0, loss: 0.6639412045478821
+epoch : 86, idx: 50, loss: 0.7544289231300354
+epoch : 86, idx: 100, loss: 0.7396736741065979
+epoch : 86, idx: 150, loss: 0.6899245381355286
+epoch : 86, idx: 200, loss: 0.7798305749893188
+accuracy: 0.69
+epoch : 87, idx: 0, loss: 0.6658540368080139
+epoch : 87, idx: 50, loss: 0.7611634135246277
+epoch : 87, idx: 100, loss: 0.7322127223014832
+epoch : 87, idx: 150, loss: 0.6876490712165833
+epoch : 87, idx: 200, loss: 0.7726685404777527
+accuracy: 0.69
+epoch : 88, idx: 0, loss: 0.6645826697349548
+epoch : 88, idx: 50, loss: 0.7632529139518738
+epoch : 88, idx: 100, loss: 0.7317221164703369
+epoch : 88, idx: 150, loss: 0.6979750394821167
+epoch : 88, idx: 200, loss: 0.7742364406585693
+accuracy: 0.69
+epoch : 89, idx: 0, loss: 0.6664287447929382
+epoch : 89, idx: 50, loss: 0.7610965967178345
+epoch : 89, idx: 100, loss: 0.7458378672599792
+epoch : 89, idx: 150, loss: 0.6919634342193604
+epoch : 89, idx: 200, loss: 0.7721490263938904
+accuracy: 0.69
+epoch : 90, idx: 0, loss: 0.6682698726654053
+epoch : 90, idx: 50, loss: 0.760546863079071
+epoch : 90, idx: 100, loss: 0.7300339937210083
+epoch : 90, idx: 150, loss: 0.6841201782226562
+epoch : 90, idx: 200, loss: 0.7746174335479736
+accuracy: 0.69
+epoch : 91, idx: 0, loss: 0.6611342430114746
+epoch : 91, idx: 50, loss: 0.759896993637085
+epoch : 91, idx: 100, loss: 0.7283739447593689
+epoch : 91, idx: 150, loss: 0.6877836585044861
+epoch : 91, idx: 200, loss: 0.7705236673355103
+accuracy: 0.69
+epoch : 92, idx: 0, loss: 0.6578758955001831
+epoch : 92, idx: 50, loss: 0.7592273354530334
+epoch : 92, idx: 100, loss: 0.7302159070968628
+epoch : 92, idx: 150, loss: 0.689882218837738
+epoch : 92, idx: 200, loss: 0.7682837247848511
+accuracy: 0.69
+epoch : 93, idx: 0, loss: 0.661198079586029
+epoch : 93, idx: 50, loss: 0.7592428922653198
+epoch : 93, idx: 100, loss: 0.7326077818870544
+epoch : 93, idx: 150, loss: 0.6913164258003235
+epoch : 93, idx: 200, loss: 0.7758298516273499
+accuracy: 0.69
+epoch : 94, idx: 0, loss: 0.6678165197372437
+epoch : 94, idx: 50, loss: 0.7594448328018188
+epoch : 94, idx: 100, loss: 0.7267953157424927
+epoch : 94, idx: 150, loss: 0.686820924282074
+epoch : 94, idx: 200, loss: 0.7705727815628052
+accuracy: 0.69
+epoch : 95, idx: 0, loss: 0.6619324088096619
+epoch : 95, idx: 50, loss: 0.7869011759757996
+epoch : 95, idx: 100, loss: 0.7295320630073547
+epoch : 95, idx: 150, loss: 0.6852195858955383
+epoch : 95, idx: 200, loss: 0.7684579491615295
+accuracy: 0.69
+epoch : 96, idx: 0, loss: 0.659137487411499
+epoch : 96, idx: 50, loss: 0.7653831839561462
+epoch : 96, idx: 100, loss: 0.7273914813995361
+epoch : 96, idx: 150, loss: 0.6883038878440857
+epoch : 96, idx: 200, loss: 0.7677716612815857
+accuracy: 0.69
+epoch : 97, idx: 0, loss: 0.6590237021446228
+epoch : 97, idx: 50, loss: 0.7726444005966187
+epoch : 97, idx: 100, loss: 0.7267640829086304
+epoch : 97, idx: 150, loss: 0.6823030114173889
+epoch : 97, idx: 200, loss: 0.7675089240074158
+accuracy: 0.69
+epoch : 98, idx: 0, loss: 0.6614951491355896
+epoch : 98, idx: 50, loss: 0.7598470449447632
+epoch : 98, idx: 100, loss: 0.7253902554512024
+epoch : 98, idx: 150, loss: 0.6836495995521545
+epoch : 98, idx: 200, loss: 0.7663830518722534
+accuracy: 0.69
+epoch : 99, idx: 0, loss: 0.664634644985199
+epoch : 99, idx: 50, loss: 0.7581378817558289
+epoch : 99, idx: 100, loss: 0.7242130041122437
+epoch : 99, idx: 150, loss: 0.6835711598396301
+epoch : 99, idx: 200, loss: 0.7672746181488037
+accuracy: 0.69
