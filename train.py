@@ -42,4 +42,4 @@ if __name__ == '__main__':
             _sum += _.shape[0]
 
         print('accuracy: {:.2f}'.format(correct / _sum))
-        torch.save(model, 'models/mnist_{:.2f}.pkl'.format(correct / _sum))
+        torch.save(model, 'weights/mnist_{:.2f}.pkl'.format(correct / _sum))

@@ -167,7 +167,7 @@ if __name__ == '__main__':
     for i in range(10):
         print(train_labels[i])
         print(train_images[i].shape)
-        cv2.imwrite("test.png", train_images[i])
+        cv2.imwrite("test.jpg", train_images[i])
         plt.imshow(train_images[i])
         plt.pause(0.000001)
         plt.show()
